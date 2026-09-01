@@ -1,0 +1,27 @@
+# Reading Log
+
+Auto-generated from my paper queue. Last updated 2026-09-01.
+**7** papers read · **0** notes · **2** active days
+
+![reading heatmap](reading-heatmap.svg)
+
+`depth` is a 0–5 score for how far the paper's core idea generalizes — 5 means the motivation states a principle that holds outside its own problem.
+
+---
+
+### 2026-09-01
+
+**6 papers read**
+
+- 📄 [Efficient Long-Context Language Model Training by Core Attention Disaggregation (DistCA)](https://proceedings.mlsys.org/paper_files/paper/2026/hash/423b59ae02381f27862c21d1c41a5603-Abstract-Conference.html) · depth 5
+- 📄 [TeleRAG: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval](https://proceedings.mlsys.org/paper_files/paper/2026/hash/7fd522b89ac21009b7bbe7560a9a5add-Abstract-Conference.html) · depth 5
+- 📄 [A Contract-Grade Verifier for LLM-Generated GPU Kernels, and a Native Blackwell Backward for the Gated-Linear-Recurrence Family](https://arxiv.org/abs/2608.12700) · depth 5
+- 📄 [Simple Is Better: Multiplication May Be All You Need for LLM Request Scheduling (LMetric)](https://www.usenix.org/conference/osdi26/presentation/zhang-dingyan) · depth 5
+- 📄 [Certifying Compressed Language Models: An Audit and a Statistical Toolkit](https://arxiv.org/abs/2608.15046) · depth 5
+- 📄 [A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving](https://arxiv.org/abs/2608.11668) · depth 5
+
+### 2026-08-31
+
+**1 paper read**
+
+- 📄 [LEANN: A Low-Storage Overhead Vector Index](https://proceedings.mlsys.org/paper_files/paper/2026/hash/e27ea0cd50b798ff8942caf9203f0992-Abstract-Conference.html) · depth 5
