@@ -1,18 +1,3 @@
-### Zihan Zhang
-
-Undergrad at **Shanghai Jiao Tong University**. I work on making large models
-cheaper to run — inference serving, KV cache, speculative decoding.
-
-A lot of that turns out to be measurement: figuring out which reported speedup
-survives contact with a real serving stack, and which one was an artifact of the
-baseline it was measured against.
-
-[Homepage](https://acm.sjtu.edu.cn/~tiancaizhangdaxian/) ·
-[Email](mailto:tiancaizhangdaxian@sjtu.edu.cn) ·
-[X](https://x.com/_SubSir)
-
----
-
 <!-- reading-log:start -->
 
 ## What I'm reading
