@@ -6,7 +6,7 @@ A daily log of LLM / ML-systems efficiency papers — inference serving, KV cach
 
 ![reading heatmap](reading-heatmap.svg)
 
-**9** papers read · **0** notes · **2** active days · **2**-day streak
+**9** papers read · **0** notes · **2** active days
 
 ### Recent
 
