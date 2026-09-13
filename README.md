@@ -6,9 +6,16 @@ A daily log of LLM / ML-systems efficiency papers — inference serving, KV cach
 
 ![reading heatmap](reading-heatmap.svg)
 
-**9** papers read · **0** notes · **2** active days
+**11** papers read · **0** notes · **3** active days · **1**-day streak
 
 ### Recent
+
+### 2026-09-12
+
+**2 papers read**
+
+- 📄 [Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://arxiv.org/abs/2609.03430)
+- 📄 [Kinetics: Rethinking Test-Time Scaling Law](https://proceedings.neurips.cc/paper_files/paper/2025/hash/79ada0f9bc4e41192ad5a80d13c8ca7e-Abstract-Conference.html)
 
 ### 2026-09-01
 
