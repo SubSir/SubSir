@@ -6,9 +6,18 @@ A daily log of LLM / ML-systems efficiency papers — inference serving, KV cach
 
 ![reading heatmap](reading-heatmap.svg)
 
-**11** papers read · **0** notes · **3** active days
+**14** papers read · **1** notes · **4** active days · **1**-day streak
 
 ### Recent
+
+### 2026-09-20
+
+**3 papers read · 1 note**
+
+- 📄 [Higher-order pruning of experts in mixture-of-experts language models (HOPE)](https://arxiv.org/abs/2609.18916)
+- 📄 [Launch-Bound and Substitutable: Why Three Inference Optimizations Fail to Pay Off in Mixture-of-Experts Models](https://arxiv.org/abs/2608.26612)
+- 📄 [A Calibrated Instrument for Measuring How Inference Optimizations Affect Output Quality](https://arxiv.org/abs/2609.18005)
+- 💬 [Launch-Bound and Substitutable: Why Three Inference Optimizations Fail to Pay Off in Mixture-of-Experts Models](https://arxiv.org/abs/2608.26612)
 
 ### 2026-09-12
 
