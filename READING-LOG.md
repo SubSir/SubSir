@@ -1,7 +1,7 @@
 # Reading Log
 
 Auto-generated from my paper queue. Last updated 2026-09-20.
-**16** papers read · **1** notes · **4** active days
+**17** papers read · **2** notes · **4** active days
 
 ![reading heatmap](reading-heatmap.svg)
 
@@ -11,14 +11,16 @@ Every paper here was read in full text, not from the abstract.
 
 ### 2026-09-20
 
-**5 papers read · 1 note**
+**6 papers read · 2 notes**
 
 - 📄 [Higher-order pruning of experts in mixture-of-experts language models (HOPE)](https://arxiv.org/abs/2609.18916)
 - 📄 [Launch-Bound and Substitutable: Why Three Inference Optimizations Fail to Pay Off in Mixture-of-Experts Models](https://arxiv.org/abs/2608.26612)
 - 📄 [A Calibrated Instrument for Measuring How Inference Optimizations Affect Output Quality](https://arxiv.org/abs/2609.18005)
 - 📄 [When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_When_Token_Pruning_is_Worse_than_Random_Understanding_Visual_Token_CVPR_2026_paper.html)
 - 📄 [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://papers.nips.cc/paper_files/paper/2025/hash/4e36d4049fb0fea195a8267c8dcd0824-Abstract-Conference.html)
+- 📄 [The Embedder's Dilemma: LLMs Are Better, but at What Cost?](https://arxiv.org/abs/2608.12875)
 - 💬 [Launch-Bound and Substitutable: Why Three Inference Optimizations Fail to Pay Off in Mixture-of-Experts Models](https://arxiv.org/abs/2608.26612)
+- 💬 [The Embedder's Dilemma: LLMs Are Better, but at What Cost?](https://arxiv.org/abs/2608.12875)
 
 ### 2026-09-12
 
