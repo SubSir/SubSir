@@ -6,17 +6,23 @@ A daily log of LLM / ML-systems efficiency papers — inference serving, KV cach
 
 ![reading heatmap](reading-heatmap.svg)
 
-**14** papers read · **1** notes · **4** active days · **1**-day streak
+**16** papers read · **1** notes · **4** active days · **1**-day streak
+
+### By topic
+
+`vector-index` 1 · `cp-parallel-training` 1 · `rag-serving` 1 · `kernel-gen` 1 · `serving-sched` 1 · `compression-equivalence` 1 · `kv-tiering` 1 · `quantization-eval` 1 · `comm-overlap` 1 · `kv-compression` 1 · `tts-effectiveness` 1 · `moe-expert-prune` 1
 
 ### Recent
 
 ### 2026-09-20
 
-**3 papers read · 1 note**
+**5 papers read · 1 note**
 
 - 📄 [Higher-order pruning of experts in mixture-of-experts language models (HOPE)](https://arxiv.org/abs/2609.18916)
 - 📄 [Launch-Bound and Substitutable: Why Three Inference Optimizations Fail to Pay Off in Mixture-of-Experts Models](https://arxiv.org/abs/2608.26612)
 - 📄 [A Calibrated Instrument for Measuring How Inference Optimizations Affect Output Quality](https://arxiv.org/abs/2609.18005)
+- 📄 [When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_When_Token_Pruning_is_Worse_than_Random_Understanding_Visual_Token_CVPR_2026_paper.html)
+- 📄 [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://papers.nips.cc/paper_files/paper/2025/hash/4e36d4049fb0fea195a8267c8dcd0824-Abstract-Conference.html)
 - 💬 [Launch-Bound and Substitutable: Why Three Inference Optimizations Fail to Pay Off in Mixture-of-Experts Models](https://arxiv.org/abs/2608.26612)
 
 ### 2026-09-12
