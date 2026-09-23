@@ -1,13 +1,20 @@
 # Reading Log
 
-Auto-generated from my paper queue. Last updated 2026-09-21.
-**17** papers read · **2** notes · **4** active days
+Auto-generated from my paper queue. Last updated 2026-09-22.
+**18** papers read · **3** notes · **5** active days
 
 ![reading heatmap](reading-heatmap.svg)
 
 Every paper here was read in full text, not from the abstract.
 
 ---
+
+### 2026-09-21
+
+**1 paper read · 1 note**
+
+- 📄 [How Lossless Is Lossless Speculative Decoding? The Role of Numerical Precision in Orthrus](https://arxiv.org/abs/2609.15504)
+- 💬 [How Lossless Is Lossless Speculative Decoding? The Role of Numerical Precision in Orthrus](https://arxiv.org/abs/2609.15504)
 
 ### 2026-09-20
 
