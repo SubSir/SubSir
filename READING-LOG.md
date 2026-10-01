@@ -1,6 +1,6 @@
 # Reading Log
 
-Auto-generated from my paper queue. Last updated 2026-09-25.
+Auto-generated from my paper queue. Last updated 2026-09-30.
 **18** papers read · **3** notes · **5** active days
 
 ![reading heatmap](reading-heatmap.svg)
