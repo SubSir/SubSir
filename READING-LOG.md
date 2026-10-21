@@ -1,13 +1,21 @@
 # Reading Log
 
-Auto-generated from my paper queue. Last updated 2026-09-30.
-**18** papers read · **3** notes · **5** active days
+Auto-generated from my paper queue. Last updated 2026-10-20.
+**20** papers read · **4** notes · **6** active days
 
 ![reading heatmap](reading-heatmap.svg)
 
 Every paper here was read in full text, not from the abstract.
 
 ---
+
+### 2026-10-19
+
+**2 papers read · 1 note**
+
+- 📄 [Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement (OPSA)](https://arxiv.org/abs/2608.31046)
+- 📄 [Unlocking Lossless Speedups in LLMs via Discrete Diffusion (Uno / Psi-Spec)](https://arxiv.org/abs/2609.04010)
+- 💬 [Unlocking Lossless Speedups in LLMs via Discrete Diffusion (Uno / Psi-Spec)](https://arxiv.org/abs/2609.04010)
 
 ### 2026-09-21
 
