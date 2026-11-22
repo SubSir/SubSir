@@ -1,7 +1,7 @@
 # Reading Log
 
 Auto-generated from my paper queue. Last updated 2026-11-22.
-**23** papers read · **7** notes · **8** active days
+**25** papers read · **9** notes · **8** active days
 
 ![reading heatmap](reading-heatmap.svg)
 
@@ -11,10 +11,14 @@ Every paper here was read in full text, not from the abstract.
 
 ### 2026-11-22
 
-**1 paper read · 1 note**
+**3 papers read · 3 notes**
 
 - 📄 [QServe:W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://proceedings.mlsys.org/paper_files/paper/2025/hash/fbe2b2f74a2ece8070d8fb073717bda6-Abstract-Conference.html)
+- 📄 [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
+- 📄 [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://arxiv.org/abs/2609.01343)
 - 💬 [QServe:W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://proceedings.mlsys.org/paper_files/paper/2025/hash/fbe2b2f74a2ece8070d8fb073717bda6-Abstract-Conference.html)
+- 💬 [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
+- 💬 [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://arxiv.org/abs/2609.01343)
 
 ### 2026-11-21
 
