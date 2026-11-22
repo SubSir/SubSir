@@ -1,13 +1,29 @@
 # Reading Log
 
-Auto-generated from my paper queue. Last updated 2026-10-20.
-**20** papers read · **4** notes · **6** active days
+Auto-generated from my paper queue. Last updated 2026-11-22.
+**23** papers read · **7** notes · **8** active days
 
 ![reading heatmap](reading-heatmap.svg)
 
 Every paper here was read in full text, not from the abstract.
 
 ---
+
+### 2026-11-22
+
+**1 paper read · 1 note**
+
+- 📄 [QServe:W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://proceedings.mlsys.org/paper_files/paper/2025/hash/fbe2b2f74a2ece8070d8fb073717bda6-Abstract-Conference.html)
+- 💬 [QServe:W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://proceedings.mlsys.org/paper_files/paper/2025/hash/fbe2b2f74a2ece8070d8fb073717bda6-Abstract-Conference.html)
+
+### 2026-11-21
+
+**2 papers read · 2 notes**
+
+- 📄 [Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving](https://proceedings.mlsys.org/paper_files/paper/2025/hash/26289c647c6828e862e271ca3c490486-Abstract-Conference.html)
+- 📄 [Marconi: Prefix Caching for the Era of Hybrid LLMs](https://proceedings.mlsys.org/paper_files/paper/2025/hash/7c180af017258d239bac6248d1eb26ac-Abstract-Conference.html)
+- 💬 [Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving](https://proceedings.mlsys.org/paper_files/paper/2025/hash/26289c647c6828e862e271ca3c490486-Abstract-Conference.html)
+- 💬 [Marconi: Prefix Caching for the Era of Hybrid LLMs](https://proceedings.mlsys.org/paper_files/paper/2025/hash/7c180af017258d239bac6248d1eb26ac-Abstract-Conference.html)
 
 ### 2026-10-19
 
