@@ -1,13 +1,19 @@
 # Reading Log
 
-Auto-generated from my paper queue. Last updated 2026-11-22.
-**25** papers read · **9** notes · **8** active days
+Auto-generated from my paper queue. Last updated 2026-11-23.
+**26** papers read · **9** notes · **9** active days
 
 ![reading heatmap](reading-heatmap.svg)
 
 Every paper here was read in full text, not from the abstract.
 
 ---
+
+### 2026-11-23
+
+**1 paper read**
+
+- 📄 [Evolving Infra: Agent-Adaptive LLM Serving at Scale](https://arxiv.org/abs/2611.12304)
 
 ### 2026-11-22
 
