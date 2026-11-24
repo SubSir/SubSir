@@ -1,13 +1,20 @@
 # Reading Log
 
 Auto-generated from my paper queue. Last updated 2026-11-24.
-**27** papers read · **10** notes · **9** active days
+**28** papers read · **11** notes · **10** active days
 
 ![reading heatmap](reading-heatmap.svg)
 
 Every paper here was read in full text, not from the abstract.
 
 ---
+
+### 2026-11-24
+
+**1 paper read · 1 note**
+
+- 📄 [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639)
+- 💬 [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639)
 
 ### 2026-11-23
 

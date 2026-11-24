@@ -1,8 +1,8 @@
 <!-- reading-log:start -->
 
-**What I'm reading** — LLM / ML-systems efficiency papers, each read in full text. **27** read · **10** notes · **9** active days · **3**-day streak · latest: [Evolving Infra](https://arxiv.org/abs/2611.12304) · [DNeo](https://arxiv.org/abs/2611.21925) · [QServe](https://proceedings.mlsys.org/paper_files/paper/2025/hash/fbe2b2f74a2ece8070d8fb073717bda6-Abstract-Conference.html) · [full log →](READING-LOG.md)
+**What I'm reading** — LLM / ML-systems efficiency papers, each read in full text. **28** read · **11** notes · **10** active days · **4**-day streak · latest: [SOAR](https://arxiv.org/abs/2611.27639) · [Evolving Infra](https://arxiv.org/abs/2611.12304) · [DNeo](https://arxiv.org/abs/2611.21925) · [full log →](READING-LOG.md)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubSir/SubSir/main/reading-snake-dark.svg?v=0cf24fc0"><img alt="snake eating my reading heatmap" src="https://raw.githubusercontent.com/SubSir/SubSir/main/reading-snake.svg?v=0cf24fc0"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubSir/SubSir/main/reading-snake-dark.svg?v=bbf53815"><img alt="snake eating my reading heatmap" src="https://raw.githubusercontent.com/SubSir/SubSir/main/reading-snake.svg?v=bbf53815"></picture>
 
 **Code** — GitHub contributions
 
