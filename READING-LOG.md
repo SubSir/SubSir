@@ -1,7 +1,7 @@
 # Reading Log
 
 Auto-generated from my paper queue. Last updated 2026-11-24.
-**28** papers read · **11** notes · **10** active days
+**29** papers read · **12** notes · **10** active days
 
 ![reading heatmap](reading-heatmap.svg)
 
@@ -11,10 +11,12 @@ Every paper here was read in full text, not from the abstract.
 
 ### 2026-11-24
 
-**1 paper read · 1 note**
+**2 papers read · 2 notes**
 
 - 📄 [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639)
+- 📄 [Restoring Diversity in Distilled Image and Video Generators by Probing Activations](https://arxiv.org/abs/2611.18550)
 - 💬 [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639)
+- 💬 [Restoring Diversity in Distilled Image and Video Generators by Probing Activations](https://arxiv.org/abs/2611.18550)
 
 ### 2026-11-23
 
