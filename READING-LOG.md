@@ -1,7 +1,7 @@
 # Reading Log
 
-Auto-generated from my paper queue. Last updated 2026-11-23.
-**26** papers read · **9** notes · **9** active days
+Auto-generated from my paper queue. Last updated 2026-11-24.
+**27** papers read · **10** notes · **9** active days
 
 ![reading heatmap](reading-heatmap.svg)
 
@@ -11,9 +11,11 @@ Every paper here was read in full text, not from the abstract.
 
 ### 2026-11-23
 
-**1 paper read**
+**2 papers read · 1 note**
 
 - 📄 [Evolving Infra: Agent-Adaptive LLM Serving at Scale](https://arxiv.org/abs/2611.12304)
+- 📄 [DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding](https://arxiv.org/abs/2611.21925)
+- 💬 [DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding](https://arxiv.org/abs/2611.21925)
 
 ### 2026-11-22
 
