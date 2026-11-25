@@ -1,13 +1,20 @@
 # Reading Log
 
-Auto-generated from my paper queue. Last updated 2026-11-24.
-**29** papers read · **12** notes · **10** active days
+Auto-generated from my paper queue. Last updated 2026-11-25.
+**30** papers read · **13** notes · **11** active days
 
 ![reading heatmap](reading-heatmap.svg)
 
 Every paper here was read in full text, not from the abstract.
 
 ---
+
+### 2026-11-25
+
+**1 paper read · 1 note**
+
+- 📄 [Residual Guidance for Real-Time Interactive Video Generation](https://arxiv.org/abs/2611.32820)
+- 💬 [Residual Guidance for Real-Time Interactive Video Generation](https://arxiv.org/abs/2611.32820)
 
 ### 2026-11-24
 
